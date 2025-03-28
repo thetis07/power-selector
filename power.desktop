@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Power Selector
+Exec=python3 /home/kerem/Documents/power.py
+Icon=~/Pictures/icons/power.png
+Terminal=false
+Categories=Utility;
+
